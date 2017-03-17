@@ -4,7 +4,6 @@
   using System.Runtime.InteropServices.WindowsRuntime;
   using Windows.Storage.Streams;
   using ZXing;
-    using static global::ZXing.RGBLuminanceSource;
 
     public static class ZXingQRCodeDecoder
   {

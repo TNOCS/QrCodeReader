@@ -7,7 +7,6 @@
   using Windows.Devices.Enumeration;
   using Windows.Media.Capture;
   using Windows.Media.Capture.Frames;
-    using static global::ZXing.RGBLuminanceSource;
 
     public class QrCaptureFrameProcessor : MediaCaptureFrameProcessor
   {
