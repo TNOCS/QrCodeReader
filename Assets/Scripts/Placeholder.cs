@@ -1,6 +1,7 @@
 ﻿#if NETFX_CORE
 using System;
 #endif
+using ZXing;
 using UnityEngine;
 
 public class Placeholder : MonoBehaviour

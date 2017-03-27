@@ -31,4 +31,5 @@ sysinfo.txt
 
 .vs
 App
-Plugins/MediaFrameQrProcessing/obj
+Plugins/MediaFrameQrProcessing.WSA/obj
+Plugins/MediaFrameQrProcessing.WSA/bin

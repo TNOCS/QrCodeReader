@@ -43,7 +43,7 @@
           bitmap.CopyToBuffer(buffer.AsBuffer());
 
           this.QrZxingResult = ZXingQRCodeDecoder.DecodeBufferToQRCode(
-            buffer, bitmap.PixelWidth, bitmap.PixelHeight, BitmapFormat.BGR32);
+            buffer, bitmap.PixelWidth, bitmap.PixelHeight, RGBLuminanceSource.BitmapFormat.BGR32);
         }
         catch
         {

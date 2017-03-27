@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 89912b108da9815468225342d8a51aa9
-timeCreated: 1489747788
+guid: 19501585aaca10c468f3536eff65ec5b
+timeCreated: 1490626835
 licenseType: Free
 PluginImporter:
   serializedVersion: 1
@@ -56,10 +56,10 @@ PluginImporter:
       enabled: 1
       settings:
         CPU: AnyCPU
-        DontProcess: True
+        DontProcess: False
         PlaceholderPath: 
         SDK: UWP
-        ScriptingBackend: DotNet
+        ScriptingBackend: AnyScriptingBackend
   userData: 
   assetBundleName: 
   assetBundleVariant: 
